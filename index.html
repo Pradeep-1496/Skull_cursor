@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pradeep</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form onsubmit="save()" class="form">
+      <h1>Login Here</h1>
+      <input type="text" placeholder="Your User Name" id="name" />
+      <input type="tel" placeholder="Your Number" id="num" />
+      <input type="password" placeholder="Your Password" id="pass" />
+      <input type="submit" value="Login" id="submit" />
+    </form>
+
+    
+
+    <div id="cursor"><img src="./skull.png" class="skull" alt=""></div>
+<!-- cursor animation script -->
+<script>
+      var cursor = document.getElementById("cursor");
+      document.onmousemove = function (e) {
+        cursor.style.left = e.pageX - 25 + "px";
+        cursor.style.top = e.pageY - 25 + "px";
+        cursor.style.display = "block";
+      };
+    </script>
+    <!-- -----end -->
+  </body>
+</html>
