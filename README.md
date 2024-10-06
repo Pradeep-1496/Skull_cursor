@@ -16,7 +16,7 @@
 
 ## Demo
 
-You can see a live demo of the project [here](https://github.com/Pradeep-1496/Skull_cursor).
+You can see a live demo of the project [here](https://pradeep-1496.github.io/Skull_cursor/).
 
 Click on badge to get direct code access
 
