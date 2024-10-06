@@ -19,6 +19,7 @@
 You can see a live demo of the project [here](https://github.com/Pradeep-1496/Skull_cursor).
 
 Click on badge to get direct code access
+
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Pradeep-1496/Skull_cursor/blob/main/index.html)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Pradeep-1496/Skull_cursor/blob/main/style.css) 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Pradeep-1496/Skull_cursor/blob/main/myscripts.js)
