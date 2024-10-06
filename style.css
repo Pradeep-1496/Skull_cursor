@@ -6,38 +6,16 @@
 #cursor {
   height: 50px;
   width: 50px;
-  /* background: linear-gradient(
-    to right top,
-    #d16ba5,
-    #c777b9,
-    #ba83ca,
-    #aa8fd8,
-    #9a9ae1,
-    #8aa7ec,
-    #79b3f4,
-    #69bff8,
-    #52cffe,
-    #41dfff,
-    #46eefa,
-    #5ffbf1
-  ); */
+ 
   border-radius: 50%;
   position: absolute;
   display: none;
   transition-duration: 0.5s;
   transition-timing-function: ease-out;
   z-index: -1; /* get back -2 for all elements */
-  /* animation: spin 7s infinite; */
-  /* filter: blur(2px); */
+ 
 }
-/* @keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-} */
+
 div:hover ~ #cursor {
   transform: scale(0.5);
 }
@@ -49,8 +27,7 @@ div:hover ~ #cursor {
   justify-content: center;
   align-items: center;
   align-content: center;
-  /* position: relative;
-  z-index: 2; */ /* get forword by 2 of this element only*/
+  
 }
 
 .skull {
