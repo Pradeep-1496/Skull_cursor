@@ -1,5 +1,5 @@
 <h1 align="center">Custom Cursor CSS </h1>
-<ul align="center">
+<ul align="left">
   <li>This repository demonstrates how to create a custom cursor for your website using CSS and JavaScript, specifically featuring a skull design.</li>
   <li>This unique cursor enhances user interaction and adds a fun element to your web application.</li>
   <li>If you like this project, please give it a ⭐ star to show your support!</li>
