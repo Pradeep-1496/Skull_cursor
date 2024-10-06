@@ -57,3 +57,8 @@ To get started, clone the repository:
 ```bash
 git clone https://github.com/Pradeep-1496/Skull_cursor.git
 cd Skull_cursor
+```
+
+## Authors
+
+- [@Pradeep-1496](https://github.com/Pradeep-1496)
