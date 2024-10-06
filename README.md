@@ -8,10 +8,12 @@
 
 You can see a live demo of the project [here](https://github.com/Pradeep-1496/Skull_cursor).
 
+
 ## Customization
 Feel free to customize the cursor image and animations:
 - Replace the skull.png file with your own image.
 - Adjust the size and scale effects in the CSS for different visual experiences.
+
 
 ## HTML
 
@@ -19,6 +21,7 @@ The structure includes a simple form and a div for the custom cursor:
 ```bash
   <div id="cursor"><img src="./skull.png" class="skull" alt=""></div>
  ```
+
 
 ## Overview
 
