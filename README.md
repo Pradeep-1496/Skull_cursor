@@ -27,7 +27,7 @@ Click on badge to get direct code access
 
 ## Customization
 Feel free to customize the cursor image and animations:
-- Replace the skull.png file with your own image.
+- Replace the [skull.png](https://github.com/Pradeep-1496/Skull_cursor/blob/main/skull.png) file with your own image.
 - Adjust the size and scale effects in the CSS for different visual experiences.
 
 
