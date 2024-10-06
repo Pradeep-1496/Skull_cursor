@@ -5,6 +5,10 @@
 </ul>
 <p align="center">If you like this project, please give it a ⭐ star to show your support!</p>
 
+[![Forks](https://img.shields.io/github/forks/Pradeep-1496/Skull_cursor?style=social)](https://github.com/Pradeep-1496/Skull_cursor/fork)
+[![Issues](https://img.shields.io/github/issues/Pradeep-1496/Skull_cursor)](https://github.com/Pradeep-1496/Skull_cursor/issues)
+[![Stars](https://img.shields.io/github/stars/Pradeep-1496/Skull_cursor?style=social)](https://github.com/Pradeep-1496/Skull_cursor/stargazers)
+
 
 ## Demo
 
