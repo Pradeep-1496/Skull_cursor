@@ -62,3 +62,7 @@ cd Skull_cursor
 ## Authors
 
 - [@Pradeep-1496](https://github.com/Pradeep-1496)
+
+## License
+
+[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge)](https://github.com/Pradeep-1496/Skull_cursor?tab=MIT-1-ov-file)
